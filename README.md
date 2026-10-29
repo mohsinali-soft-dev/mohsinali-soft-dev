@@ -18,7 +18,7 @@ Building scalable web applications with Laravel, PHP, React, MySQL, and modern c
 
 💻 Full Stack Laravel Developer from Pakistan
 
-🔹 2+ Years of Professional Experience
+🔹 3 Years of Professional Experience
 
 🔹 Passionate about Backend Development, Clean Architecture & Performance
 
